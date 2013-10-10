@@ -1,4 +1,4 @@
 calcolo_bf
 
-Reaaaally old project
+Old project written in ZF1
 ==========
